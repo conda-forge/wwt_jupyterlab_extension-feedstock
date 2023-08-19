@@ -1,5 +1,5 @@
 {% set name = "wwt_jupyterlab_extension" %}
-{% set version = "1.4.0" %}
+{% set version = "2.0.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/wwt_jupyterlab_extension-{{ version }}.tar.gz
-  sha256: 47083d4153d1697455b98636d35c2d9097ba81f7816a50b8e570788bb5e2d5e5
+  sha256: 1d07548f83e080560668b14f7500690bad28971b4ea5f2401e2bd8293d28358c
 
 build:
   number: 0
