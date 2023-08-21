@@ -1,11 +1,11 @@
-About wwt_jupyterlab_extension
-==============================
+About wwt_jupyterlab_extension-feedstock
+========================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/wwt_jupyterlab_extension-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/WorldWideTelescope/wwt-jupyterlab
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/wwt_jupyterlab_extension-feedstock/blob/main/LICENSE.txt)
 
 Summary: Prebuilt AAS WorldWide Telescope JupyterLab extension
 
